@@ -1,0 +1,20 @@
+Month,Force,Neighbourhood,Burglary,Robbery,Vehicle crime,Violent crime,Anti-social behaviour,Criminal damage and arson,Shoplifting,Other theft,Drugs,Public disorder and weapons,Other crime
+2012-03,North Yorkshire Police,harrogate-town,10,1,3,25,122,17,30,31,7,7,2
+2012-03,North Yorkshire Police,richmond-and-catterick,13,0,21,22,179,23,8,17,4,8,5
+2012-03,North Yorkshire Police,york-west,39,3,60,48,267,58,24,69,21,14,7
+2012-03,North Yorkshire Police,ryedale,14,1,11,22,88,20,5,18,2,5,5
+2012-03,North Yorkshire Police,the-dales,9,0,2,13,41,4,1,9,0,0,3
+2012-03,North Yorkshire Police,harrogate-outer,31,1,10,19,142,24,11,40,10,0,2
+2012-03,North Yorkshire Police,skipton-town,2,1,2,12,74,15,11,25,7,6,2
+2012-03,North Yorkshire Police,thirsk-and-easingwold,12,0,2,17,101,12,2,16,0,3,3
+2012-03,North Yorkshire Police,craven-rural,16,0,10,9,53,16,1,15,4,4,8
+2012-03,North Yorkshire Police,york-city-and-east,31,1,12,70,361,35,77,105,17,13,19
+2012-03,North Yorkshire Police,filey-and-eastfield,6,0,4,22,133,22,6,22,1,3,8
+2012-03,North Yorkshire Police,northallerton-and-stokesley,16,1,16,25,168,26,25,30,8,10,4
+2012-03,North Yorkshire Police,selby-town,6,0,6,20,123,19,12,16,9,11,4
+2012-03,North Yorkshire Police,whitby,10,0,5,19,93,16,1,14,11,4,4
+2012-03,North Yorkshire Police,knaresborough-and-boroughbridge,32,0,12,12,72,15,4,28,7,0,4
+2012-03,North Yorkshire Police,scarborough,27,3,27,75,429,65,52,69,24,26,17
+2012-03,North Yorkshire Police,selby-rural,28,0,16,35,176,38,5,43,11,2,4
+2012-03,North Yorkshire Police,york-north,70,2,47,63,390,84,35,83,13,10,13
+2012-03,North Yorkshire Police,ripon-and-pateley-bridge,22,0,5,30,121,24,12,17,0,4,4

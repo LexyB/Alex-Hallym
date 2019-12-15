@@ -1,0 +1,21 @@
+Month,Force,Neighbourhood,Burglary,Robbery,Vehicle crime,Violent crime,Anti-social behaviour,Criminal damage and arson,Shoplifting,Other theft,Drugs,Public disorder and weapons,Other crime
+2012-08,Cambridgeshire Constabulary,CamCity_East_City,20,1,17,33,157,21,24,114,18,8,13
+2012-08,Cambridgeshire Constabulary,Pboro_Eastern,49,14,40,125,392,78,73,168,40,29,36
+2012-08,Cambridgeshire Constabulary,Hunts_Huntingdon_and_Yaxley,24,3,29,53,220,38,17,55,16,5,26
+2012-08,Cambridgeshire Constabulary,CamCity_South_City,19,1,11,21,59,16,2,54,6,4,4
+2012-08,Cambridgeshire Constabulary,Fenland_March_and_Chatteris,9,1,14,28,128,36,4,18,8,1,4
+2012-08,Cambridgeshire Constabulary,ECambs_Littleport_and_West,20,0,15,12,46,9,3,5,5,3,4
+2012-08,Cambridgeshire Constabulary,ECambs_Soham_and_South,23,1,10,15,66,15,2,21,5,3,6
+2012-08,Cambridgeshire Constabulary,CamCity_Cambridge_City,5,4,0,37,84,11,63,158,13,9,6
+2012-08,Cambridgeshire Constabulary,Hunts_St_Neots,21,0,18,21,121,42,20,33,7,4,6
+2012-08,Cambridgeshire Constabulary,Fenland_Wisbech,27,2,15,73,238,33,36,51,27,20,6
+2012-08,Cambridgeshire Constabulary,Fenland_Whittlesey,8,0,3,9,42,13,4,17,2,0,3
+2012-08,Cambridgeshire Constabulary,SCambs_Cambourne,42,1,22,23,174,30,9,39,7,6,12
+2012-08,Cambridgeshire Constabulary,ECambs_Ely_City,18,0,10,15,55,10,8,11,14,4,1
+2012-08,Cambridgeshire Constabulary,CamCity_North_City,20,3,9,35,125,35,19,72,14,5,5
+2012-08,Cambridgeshire Constabulary,Pboro_Southern,56,3,37,55,277,55,35,80,17,14,20
+2012-08,Cambridgeshire Constabulary,SCambs_Histon,10,0,13,8,41,11,5,16,2,2,3
+2012-08,Cambridgeshire Constabulary,SCambs_Sawston,18,0,19,24,68,17,3,27,12,2,5
+2012-08,Cambridgeshire Constabulary,Hunts_St_Ives_and_Ramsey,43,0,20,35,151,41,20,50,6,5,20
+2012-08,Cambridgeshire Constabulary,CamCity_West_City,10,0,3,3,19,2,1,33,0,2,0
+2012-08,Cambridgeshire Constabulary,Pboro_Northern,40,2,63,65,361,68,21,70,15,20,18

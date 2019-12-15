@@ -1,0 +1,81 @@
+Month,Force,Neighbourhood,Burglary,Robbery,Vehicle crime,Violent crime,Anti-social behaviour,Criminal damage and arson,Shoplifting,Other theft,Drugs,Public disorder and weapons,Other crime
+2012-07,Cleveland Police,Clairville,5,0,3,5,37,4,5,5,3,1,3
+2012-07,Cleveland Police,Ingleby Barwick West,4,0,1,4,34,4,0,1,0,1,2
+2012-07,Cleveland Police,Ladgate,4,0,2,2,27,7,1,6,1,1,0
+2012-07,Cleveland Police,Parkfield and Oxbridge,5,2,2,11,73,12,8,17,5,5,1
+2012-07,Cleveland Police,Manor House,4,0,0,16,86,14,7,6,8,2,1
+2012-07,Cleveland Police,Roseworth,6,1,2,4,41,4,17,3,0,0,0
+2012-07,Cleveland Police,Brotton,3,0,2,7,34,4,1,2,2,0,0
+2012-07,Cleveland Police,Ormesby,5,0,4,1,19,4,1,3,2,0,2
+2012-07,Cleveland Police,Coatham,7,0,3,15,83,18,11,22,5,4,5
+2012-07,Cleveland Police,Fairfield,2,1,0,3,19,2,1,1,0,0,0
+2012-07,Cleveland Police,Fens and Rossmere,1,0,0,5,27,5,1,1,0,0,1
+2012-07,Cleveland Police,Marton West,0,0,0,2,11,1,0,1,1,0,3
+2012-07,Cleveland Police,Grangetown,16,0,3,6,34,15,4,9,3,0,1
+2012-07,Cleveland Police,Normanby,3,1,2,5,21,5,1,2,0,1,0
+2012-07,Cleveland Police,Foggy Furze,13,0,0,10,49,15,0,6,3,5,0
+2012-07,Cleveland Police,Guisborough,2,0,3,11,50,5,2,7,2,1,2
+2012-07,Cleveland Police,Billingham Central,6,0,0,7,85,6,4,15,1,0,0
+2012-07,Cleveland Police,Brookfield,2,0,1,1,4,3,0,1,0,0,0
+2012-07,Cleveland Police,Skelton,3,1,0,3,36,6,1,5,2,1,0
+2012-07,Cleveland Police,Bishopsgarth and Elm Tree,9,0,4,7,29,3,5,0,0,0,0
+2012-07,Cleveland Police,Northern Parishes,2,0,0,2,10,2,0,5,0,2,0
+2012-07,Cleveland Police,Beckfield,8,2,1,5,22,4,3,2,0,2,0
+2012-07,Cleveland Police,Hemlington,3,1,4,8,41,7,1,3,1,7,2
+2012-07,Cleveland Police,Village,1,0,0,4,31,3,2,6,1,2,1
+2012-07,Cleveland Police,Victoria,12,2,1,34,122,21,10,13,12,8,10
+2012-07,Cleveland Police,Coulby Newham,1,0,2,2,60,2,6,6,1,0,4
+2012-07,Cleveland Police,Newcomen,2,0,2,4,22,4,0,4,1,0,0
+2012-07,Cleveland Police,South Bank,6,1,5,14,74,17,17,10,1,1,2
+2012-07,Cleveland Police,North Ormesby and Brambles Farm,17,0,8,16,131,25,4,5,2,1,2
+2012-07,Cleveland Police,Kader,6,0,1,2,22,3,6,5,2,2,0
+2012-07,Cleveland Police,Mandale and Victoria,12,2,3,18,110,16,8,14,2,3,2
+2012-07,Cleveland Police,Billingham South,8,1,2,4,32,7,1,9,0,0,0
+2012-07,Cleveland Police,Dormanstown,5,0,3,10,52,7,0,8,0,2,1
+2012-07,Cleveland Police,Stockton Town Centre,9,2,5,26,184,21,36,28,12,9,5
+2012-07,Cleveland Police,West Dyke,3,0,0,5,25,4,5,4,0,2,1
+2012-07,Cleveland Police,Newtown,5,0,6,15,61,10,0,20,3,4,2
+2012-07,Cleveland Police,Saltburn,2,0,2,6,15,3,0,3,0,1,0
+2012-07,Cleveland Police,Acklam,2,0,1,2,31,3,0,0,0,0,0
+2012-07,Cleveland Police,Burn Valley,5,0,4,13,57,9,2,7,3,1,1
+2012-07,Cleveland Police,Westworth,0,0,1,0,22,4,0,3,0,0,0
+2012-07,Cleveland Police,Middlehaven,15,0,15,66,151,20,65,52,12,24,10
+2012-07,Cleveland Police,Park End,8,0,0,11,52,10,4,8,1,3,1
+2012-07,Cleveland Police,Hardwick,7,0,4,16,59,10,0,6,3,2,2
+2012-07,Cleveland Police,Norton West,1,0,1,0,26,2,2,6,1,0,0
+2012-07,Cleveland Police,Headland and Harbour,7,0,1,21,107,11,11,12,8,4,4
+2012-07,Cleveland Police,Thorntree,4,0,5,8,48,13,0,7,0,2,1
+2012-07,Cleveland Police,Nunthorpe,1,0,0,3,10,2,0,0,0,0,0
+2012-07,Cleveland Police,University,5,2,6,16,61,16,2,9,4,1,2
+2012-07,Cleveland Police,Beechwood,6,0,0,17,68,23,4,11,9,1,2
+2012-07,Cleveland Police,Seaton,3,0,4,6,49,6,4,6,0,1,1
+2012-07,Cleveland Police,Yarm,1,0,0,9,17,5,3,3,2,0,0
+2012-07,Cleveland Police,Eaglescliffe,2,0,2,3,36,2,0,4,0,0,0
+2012-07,Cleveland Police,Marton,1,0,1,1,14,3,0,3,0,1,1
+2012-07,Cleveland Police,Longbeck,3,0,0,0,20,1,0,5,0,0,0
+2012-07,Cleveland Police,Western Parishes,1,0,1,1,7,1,0,0,1,0,0
+2012-07,Cleveland Police,Rural West,1,0,7,1,23,3,3,5,0,0,1
+2012-07,Cleveland Police,Grangefield,2,0,3,4,23,6,0,8,1,0,0
+2012-07,Cleveland Police,Park - Middlesbrough,8,1,8,8,26,6,20,10,1,3,2
+2012-07,Cleveland Police,Jesmond,4,0,3,14,58,11,2,4,4,2,2
+2012-07,Cleveland Police,Linthorpe,2,0,7,4,46,13,2,8,0,2,2
+2012-07,Cleveland Police,Pallister,7,0,1,10,43,17,11,7,1,4,4
+2012-07,Cleveland Police,Hutton,4,0,1,1,23,2,1,3,0,1,0
+2012-07,Cleveland Police,Hart,1,0,5,0,23,2,2,0,0,0,0
+2012-07,Cleveland Police,Teesville,6,0,4,3,38,9,2,5,3,4,5
+2012-07,Cleveland Police,Eston,7,0,3,7,56,11,4,13,4,1,2
+2012-07,Cleveland Police,Kirkleatham,5,1,2,4,91,12,1,2,0,2,2
+2012-07,Cleveland Police,Stainsby Hill,2,0,0,6,41,11,6,8,0,0,3
+2012-07,Cleveland Police,Norton South,6,0,4,5,38,8,2,9,2,1,17
+2012-07,Cleveland Police,Gresham,9,4,5,35,138,16,8,23,14,9,1
+2012-07,Cleveland Police,Ayresome,6,0,5,8,46,4,0,6,1,1,0
+2012-07,Cleveland Police,Stainton and Thornton,0,1,0,0,15,2,0,0,1,1,0
+2012-07,Cleveland Police,De Bruce,4,0,1,19,55,5,1,4,3,3,1
+2012-07,Cleveland Police,Zetland,3,0,1,0,25,1,0,0,1,1,0
+2012-07,Cleveland Police,Ingleby Barwick East,0,0,2,2,28,4,0,3,0,0,1
+2012-07,Cleveland Police,Billingham West,2,0,0,1,11,2,1,1,1,0,0
+2012-07,Cleveland Police,Loftus,7,0,1,4,34,6,2,3,1,1,0
+2012-07,Cleveland Police,Hartburn,2,0,1,4,13,2,1,2,0,0,0
+2012-07,Cleveland Police,Norton North,9,0,5,11,45,8,3,5,0,5,2
+2012-07,Cleveland Police,Billingham East,2,0,6,6,50,6,2,8,2,2,1
+2012-07,Cleveland Police,Billingham North,1,0,3,1,7,4,0,0,0,0,0

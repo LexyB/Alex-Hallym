@@ -1,0 +1,5 @@
+Month,Force,Neighbourhood,Burglary,Robbery,Vehicle crime,Violent crime,Anti-social behaviour,Criminal damage and arson,Shoplifting,Other theft,Drugs,Public disorder and weapons,Other crime
+2012-02,City of London Police,cs,5,2,3,19,21,9,31,71,13,4,11
+2012-02,City of London Police,cw,3,1,2,21,51,5,9,55,9,5,9
+2012-02,City of London Police,cn,4,2,4,19,56,6,16,67,11,8,4
+2012-02,City of London Police,ce,3,2,4,8,19,2,2,34,9,0,2

@@ -1,0 +1,86 @@
+Month,Force,Neighbourhood,Burglary,Robbery,Vehicle crime,Violent crime,Anti-social behaviour,Criminal damage and arson,Shoplifting,Other theft,Drugs,Public disorder and weapons,Other crime
+2012-06,Police Service of Northern Ireland,Lisburn City,9,1,8,78,125,30,20,19,6,3,8
+2012-06,Police Service of Northern Ireland,Coleraine Coastal,7,0,1,30,99,20,2,13,5,3,6
+2012-06,Police Service of Northern Ireland,Rural West,8,1,7,16,17,10,0,6,1,1,1
+2012-06,Police Service of Northern Ireland,South Armagh,8,0,10,10,40,14,1,5,1,2,3
+2012-06,Police Service of Northern Ireland,Dunmurry,21,3,11,45,120,39,2,19,8,3,5
+2012-06,Police Service of Northern Ireland,Downpatrick,11,1,3,29,67,24,1,11,10,2,3
+2012-06,Police Service of Northern Ireland,Lisburn Rural,15,0,3,20,39,12,0,12,3,2,7
+2012-06,Police Service of Northern Ireland,Ballymoney Town,5,0,0,9,52,15,2,4,4,1,6
+2012-06,Police Service of Northern Ireland,York Road,16,4,9,70,221,72,18,35,5,6,5
+2012-06,Police Service of Northern Ireland,Castlereagh,5,0,5,29,65,11,11,11,6,1,1
+2012-06,Police Service of Northern Ireland,Dromore,5,0,2,2,10,1,1,3,0,0,0
+2012-06,Police Service of Northern Ireland,Whiterock,7,2,3,34,58,24,0,9,3,5,0
+2012-06,Police Service of Northern Ireland,Foyle City Centre,10,0,2,75,122,38,14,25,1,4,6
+2012-06,Police Service of Northern Ireland,Foyle City North,8,0,6,24,80,32,5,14,1,5,3
+2012-06,Police Service of Northern Ireland,Bush,4,0,1,8,15,7,0,2,1,1,0
+2012-06,Police Service of Northern Ireland,Cookstown Rural,3,0,2,11,15,6,1,9,1,3,3
+2012-06,Police Service of Northern Ireland,Coleraine Rural,3,0,1,7,10,5,0,5,0,0,1
+2012-06,Police Service of Northern Ireland,Laganbank,21,10,30,72,235,52,18,72,13,8,7
+2012-06,Police Service of Northern Ireland,Rural East,10,0,6,23,34,12,0,7,0,0,5
+2012-06,Police Service of Northern Ireland,Cushendall,3,0,0,0,4,0,0,0,0,0,0
+2012-06,Police Service of Northern Ireland,Coleraine Town,8,0,5,60,138,21,3,25,4,10,9
+2012-06,Police Service of Northern Ireland,Holywood,2,0,2,9,29,10,0,0,2,0,3
+2012-06,Police Service of Northern Ireland,Macedon,12,1,7,46,50,11,19,8,2,1,2
+2012-06,Police Service of Northern Ireland,Rathfriland,5,1,0,1,24,3,1,2,0,0,3
+2012-06,Police Service of Northern Ireland,Maghera,5,1,2,26,22,13,0,3,0,0,1
+2012-06,Police Service of Northern Ireland,Newtownards,8,1,6,41,86,34,12,12,4,0,3
+2012-06,Police Service of Northern Ireland,Crumlin,6,1,1,2,13,7,5,5,1,0,0
+2012-06,Police Service of Northern Ireland,Cookstown Urban,9,0,5,28,65,23,9,8,4,1,3
+2012-06,Police Service of Northern Ireland,Larne Coastal Road,1,0,1,3,11,3,0,1,0,0,1
+2012-06,Police Service of Northern Ireland,Castlederg,2,0,3,16,20,3,0,3,0,0,1
+2012-06,Police Service of Northern Ireland,Ballyclare,2,0,1,12,31,5,0,7,2,0,1
+2012-06,Police Service of Northern Ireland,Newry City,16,3,13,83,97,42,15,19,7,5,8
+2012-06,Police Service of Northern Ireland,Strabane,5,0,2,39,77,35,5,9,2,3,5
+2012-06,Police Service of Northern Ireland,Victoria,10,1,4,30,75,29,6,24,7,2,5
+2012-06,Police Service of Northern Ireland,Peninsula,9,0,0,30,68,18,1,5,0,0,0
+2012-06,Police Service of Northern Ireland,Limavady Rural,6,0,2,21,39,8,0,7,5,1,3
+2012-06,Police Service of Northern Ireland,Ballymena North,3,0,1,12,33,10,0,5,3,2,1
+2012-06,Police Service of Northern Ireland,Banbridge,7,0,3,28,102,22,4,13,3,1,4
+2012-06,Police Service of Northern Ireland,Dungannon,12,0,2,43,93,23,5,12,11,5,7
+2012-06,Police Service of Northern Ireland,Clogher Valley,2,0,4,2,20,8,1,6,0,2,1
+2012-06,Police Service of Northern Ireland,Bann,0,0,1,4,12,3,0,4,0,1,0
+2012-06,Police Service of Northern Ireland,Comber,3,0,0,13,25,13,0,7,1,0,0
+2012-06,Police Service of Northern Ireland,Fermanagh South,5,0,7,20,29,5,0,4,0,3,0
+2012-06,Police Service of Northern Ireland,Randalstown,4,0,2,20,15,9,0,5,3,1,0
+2012-06,Police Service of Northern Ireland,South Down,7,0,9,24,66,23,3,8,3,1,4
+2012-06,Police Service of Northern Ireland,Carrickfergus,5,1,2,25,90,28,4,13,4,3,5
+2012-06,Police Service of Northern Ireland,Omagh Urban,9,0,2,59,102,29,10,15,9,1,2
+2012-06,Police Service of Northern Ireland,Central,12,5,21,98,175,34,65,64,9,6,9
+2012-06,Police Service of Northern Ireland,Magherafelt,9,0,3,34,66,10,1,6,7,0,2
+2012-06,Police Service of Northern Ireland,Bangor Outer,6,0,0,39,110,27,5,10,4,1,2
+2012-06,Police Service of Northern Ireland,Pottinger,24,4,17,71,179,54,17,48,7,4,4
+2012-06,Police Service of Northern Ireland,University,1,0,1,23,49,8,1,4,2,4,3
+2012-06,Police Service of Northern Ireland,Newcastle,8,0,8,29,61,12,3,16,3,0,1
+2012-06,Police Service of Northern Ireland,Dundonald,6,0,4,17,45,13,0,3,0,0,1
+2012-06,Police Service of Northern Ireland,Antrim Line,9,2,4,20,69,20,5,12,3,4,6
+2012-06,Police Service of Northern Ireland,Waterside Urban,10,0,13,70,150,48,8,28,1,3,1
+2012-06,Police Service of Northern Ireland,Greater Andersonstown,11,2,4,24,51,21,7,22,2,6,4
+2012-06,Police Service of Northern Ireland,Antrim,19,2,2,69,96,37,5,16,10,2,4
+2012-06,Police Service of Northern Ireland,Balmoral,23,5,30,29,148,51,12,34,4,3,3
+2012-06,Police Service of Northern Ireland,Ballymena Rural,9,0,3,29,50,13,0,7,4,0,4
+2012-06,Police Service of Northern Ireland,Bangor Inner,2,0,3,28,101,24,10,14,2,3,3
+2012-06,Police Service of Northern Ireland,Lurgan,30,2,8,77,130,39,7,14,9,8,10
+2012-06,Police Service of Northern Ireland,Waterside Rural,2,0,1,10,36,13,3,6,0,2,1
+2012-06,Police Service of Northern Ireland,Enniskillen,8,1,9,36,97,15,4,19,2,1,6
+2012-06,Police Service of Northern Ireland,Ballymena South,7,1,2,37,84,16,13,20,8,4,5
+2012-06,Police Service of Northern Ireland,Foyle City West,15,2,5,38,91,46,0,7,2,3,3
+2012-06,Police Service of Northern Ireland,Tennent Street,40,2,15,122,203,78,8,33,6,12,3
+2012-06,Police Service of Northern Ireland,Armagh City,8,1,6,27,79,17,7,11,7,6,1
+2012-06,Police Service of Northern Ireland,Greater Falls,8,3,18,26,75,36,3,15,2,4,0
+2012-06,Police Service of Northern Ireland,Omagh Rural,9,0,3,6,23,4,2,9,0,2,1
+2012-06,Police Service of Northern Ireland,Upper Falls,4,1,1,33,42,12,0,9,8,3,2
+2012-06,Police Service of Northern Ireland,Moy and Coalisland,7,1,3,27,40,7,2,8,0,3,4
+2012-06,Police Service of Northern Ireland,Fermanagh North,8,0,3,11,21,10,0,2,1,1,1
+2012-06,Police Service of Northern Ireland,Rowallane,6,1,4,14,38,5,2,11,4,1,2
+2012-06,Police Service of Northern Ireland,Larne Town,0,0,1,11,28,15,5,2,1,0,2
+2012-06,Police Service of Northern Ireland,Brownlow,11,0,1,8,22,12,10,4,1,1,0
+2012-06,Police Service of Northern Ireland,Gilford,5,0,3,13,24,7,1,7,1,0,2
+2012-06,Police Service of Northern Ireland,Bushmills,1,0,0,5,7,0,0,0,0,0,2
+2012-06,Police Service of Northern Ireland,Carryduff,7,0,2,13,13,3,1,6,0,2,1
+2012-06,Police Service of Northern Ireland,Portadown,10,1,2,53,122,28,8,16,11,8,4
+2012-06,Police Service of Northern Ireland,Larne Lough,0,1,1,2,4,0,1,3,0,0,0
+2012-06,Police Service of Northern Ireland,Ballycastle,4,0,1,8,26,5,0,3,1,1,1
+2012-06,Police Service of Northern Ireland,Larne Estates,1,0,1,12,36,12,1,2,1,1,1
+2012-06,Police Service of Northern Ireland,Fermanagh West,4,0,2,6,9,7,0,8,1,1,3
+2012-06,Police Service of Northern Ireland,Limavady Urban,8,0,1,48,57,37,5,7,2,3,5
